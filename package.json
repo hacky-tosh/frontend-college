@@ -33,7 +33,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "proxy": "http://localhost/:4040/",
+  "proxy": "http://198.199.81.102/:4040/",
   "secure": false,
   "eslintConfig": {
     "extends": [
